@@ -1,0 +1,10 @@
+# To reproduce this presentation, you will first need to download the two
+following zipped data sets:
+# - All STATS19 data (accident, casualties and vehicle tables) for 2005 to
+#   2014", from
+#   https://data.gov.uk/dataset/road-accidents-safety-data/resource/8ecee6ac-33fd-4f5b-8973-e900cc65d24a)
+# - Road Safety - Accidents 2015, from
+#   https://data.gov.uk/dataset/road-accidents-safety-data/resource/ceb00cff-443d-4d43-b17a-ee13437e9564)
+# Then extract the `Accidents0514.csv` and `Accidents_2015.csv` files from
+# the zip files in a subdirectory named `data`.
+# read data for 2005-2014 and 2015 as data tables and keep only severity and date columns
